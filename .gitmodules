@@ -1,0 +1,4 @@
+[submodule "boxture-v2-php-sdk"]
+	path = boxture-v2-php-sdk
+	url = git@github.com:Yogarine/boxture-v2-php-sdk.git
+	branch = master

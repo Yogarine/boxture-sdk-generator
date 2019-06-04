@@ -5,6 +5,7 @@
   "variableNamingConvention": "camelCase",
   "srcBasePath": "src",
   "gitUserId": "Yogarine",
+  "gitRepoId": "boxture-sdk-php",
   "removeOperationIdPrefix": true,
   "enablePostProcessFile": true,
   "validateSpec": false
