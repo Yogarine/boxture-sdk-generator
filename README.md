@@ -12,7 +12,7 @@ is implemented, but in theory support for many other languages can be easily add
 Build the SDK for PHP like this:
 
 ```bash
-./generate-php.sh
+./generate.sh
 ```
 
 ## Adding support for other languages.
