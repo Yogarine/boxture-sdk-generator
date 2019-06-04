@@ -1,11 +1,11 @@
 {
-  "packageName": "boxture-sdk-php",
+  "packageName": "boxture-v2-sdk-php",
   "composerVendorName": "yogarine",
   "modelPackage": "Model",
   "variableNamingConvention": "camelCase",
   "srcBasePath": "src",
   "gitUserId": "yogarine",
-  "gitRepoId": "boxture-sdk-php",
+  "gitRepoId": "boxture-v2-sdk-php",
   "removeOperationIdPrefix": true,
   "enablePostProcessFile": true,
   "validateSpec": false
