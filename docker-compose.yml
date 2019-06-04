@@ -1,0 +1,9 @@
+version: "3"
+services:
+
+  openapi-generator:
+    image: openapitools/openapi-generator-cli:v4.0.1
+#    environment:
+#      PHP_POST_PROCESS_FILE: "/local/node_modules/.bin/prettier"
+    volumes:
+      - ".:/local"
